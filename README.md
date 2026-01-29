@@ -9,6 +9,17 @@
 
 ###
 
+##  Open Source Contributions
+
+- **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** - Fixed broken doctests in XGBoost classifier
+  - Replaced incorrect doctests with proper validation tests
+  - Fixed XGBoostError by providing sufficient training samples
+  - All 12 doctests now pass successfully 
+
+###
+
+<h3 align="left">🛠 Tech Stack</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,6 +49,8 @@
 </div>
 
 ###
+
+<h3 align="left">📫 Connect with me</h3>
 
 <div align="left">
   <a href="https://www.youtube.com/@_Mad_" target="_blank">
