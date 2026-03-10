@@ -9,15 +9,6 @@
 
 ###
 
-##  Open Source Contributions
-
-- **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** - Fixed broken doctests in XGBoost classifier
-  - Replaced incorrect doctests with proper validation tests
-  - Fixed XGBoostError by providing sufficient training samples
-  - All 12 doctests now pass successfully 
-
-###
-
 <h3 align="left">🛠 Tech Stack</h3>
 
 <div align="left">
